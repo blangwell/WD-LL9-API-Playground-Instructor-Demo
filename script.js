@@ -48,7 +48,7 @@ const languagesEl    = document.getElementById('languagesValue');
   /* ------------------------------------------------------------
      STEP 4: Build the fetch request
      ------------------------------------------------------------
-     Endpoint: https://restcountries.com/v3.1/name/{name}?fullText=true
+     
      ------------------------------------------------------------ */
 
 
@@ -60,7 +60,7 @@ const languagesEl    = document.getElementById('languagesValue');
 
 
   /* ------------------------------------------------------------
-     STEP 6: Display ONE property. Start simple.
+     STEP 6: Display ONE property. Country Name. Start simple.
      Display only: Country Name. Then STOP.
 
      Say to the class: "Everything else we build today follows
